@@ -32,7 +32,7 @@ I build scalable systems and backend solutions, always focused on performance, c
 
 ## 🛠️ Tech Stack
 
-### Artificial Inteligence 
+### Artificial Intelligence 
 
 ![IA 🧠](https://img.shields.io/badge/IA_🧠-6C47FF?style=for-the-badge)
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge)
@@ -68,9 +68,8 @@ I build scalable systems and backend solutions, always focused on performance, c
 
 ## 📊 GitHub Stats
 
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=herbertcarnaubadesouza&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=herbertcarnaubadesouza&layout=compact&theme=tokyonight"/>
+<p align="center">
+  <img height="170" src="https://streak-stats.demolab.com?user=lg-devhub&theme=tokyonight&hide_border=false" />
 </p>
 
 ---
