@@ -86,4 +86,4 @@ I build scalable systems and backend solutions, always focused on performance, c
 ---
 
 ⭐ If you like my work, consider starring a repository  
-🤝 I am mainly open to a Job Opportunity
+🤝 I´m open to a Job Opportunity
