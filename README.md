@@ -13,8 +13,8 @@ I build scalable systems and backend solutions, always focused on performance, c
   <a href="https://github.com/lg-devhub">
     <img src="https://img.shields.io/badge/GitHub-LG--DEVHUB-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://instagram.com/deoliveira.account">
-    <img src="https://img.shields.io/badge/Instagram-@deoliveira.account-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <a href="https://instagram.com/acc.gustavo">
+    <img src="https://img.shields.io/badge/Instagram-@acc.gustavo-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/luiz-gustavo-de-oliveira-abab43259/">
   <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
